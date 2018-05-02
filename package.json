@@ -1,6 +1,7 @@
 {
     "name": "homebank-parser",
-    "version": "0.0.4",
+    "version": "0.0.5",
+    "description": "Parse .xhb (HomeBank xml files) from your JS/TS application",
     "dependencies": {
         "xml2js": "0.4.19",
         "@types/xml2js": "0.4.2",
