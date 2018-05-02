@@ -1,3 +1,6 @@
 src
 tests
 dist/tests
+!dist/src
+test.xhb
+tsconfig.json
