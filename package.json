@@ -11,5 +11,17 @@
     },
     "scripts": {
         "test": "tsc && ava --verbose"
-    }
+    },
+    "keywords": [
+        "homebank",
+        "parser"
+    ],
+    "author": {
+        "name": "Null Jester",
+        "email": "thenulljester@gmail.com",
+        "url": "https://twitter.com/nulljester"
+    },
+    "preview": true,
+    "license": "MIT",
+    "main": "dist/index.js"
 }
