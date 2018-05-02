@@ -1,12 +1,12 @@
 {
     "name": "homebank-parser",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "dependencies": {
-        "xml2js": "0.4.19"
+        "xml2js": "0.4.19",
+        "@types/xml2js": "0.4.2",
+        "@types/node": "10.0.2"
     },
     "devDependencies": {
-        "@types/xml2js": "0.4.2",
-        "@types/node": "10.0.2",
         "ava": "0.25.0"
     },
     "scripts": {
@@ -23,6 +23,6 @@
     },
     "preview": true,
     "license": "MIT",
-    "main": "dist/index.js",
-    "types": "dist/index.d.ts"
+    "main": "dist/src/index.js",
+    "types": "dist/src/index"
 }
