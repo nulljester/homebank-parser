@@ -1,0 +1,15 @@
+{
+    "name": "homebank-parser",
+    "version": "0.0.1",
+    "dependencies": {
+        "xml2js": "0.4.19"
+    },
+    "devDependencies": {
+        "@types/xml2js": "0.4.2",
+        "@types/node": "10.0.2",
+        "ava": "0.25.0"
+    },
+    "scripts": {
+        "test": "tsc && ava --verbose"
+    }
+}
